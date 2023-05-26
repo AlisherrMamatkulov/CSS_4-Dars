@@ -1,0 +1,31 @@
+body{
+    background-color: #c8e9f0;
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: white;
+}
+.navbar-menu{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.navbar-item{
+    display: inline-block;
+    padding: 20px 25px;
+}
+.navbar-item1{
+    display: inline-block;
+    padding: 20px 25px;
+}
+.navbar-item a{
+    text-decoration: none;
+    color: black;
+}
+.navbar-item:hover{
+    background-color: #f1f1f1;
+}
+.navbar-item a:hover{
+    color: skyblue;
+}

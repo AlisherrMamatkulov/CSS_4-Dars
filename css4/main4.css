@@ -1,0 +1,248 @@
+body{
+    background-color: wheat;
+}
+.wrap{
+    width:1200px;
+    margin: 20px auto;
+    box-sizing: border-box;
+}
+.btn{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+.wrap2{
+    width: 1200px;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn2{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: yellowgreen;
+}
+.wrap3{
+    width: 1200px;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn3{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+}
+.wrap4{
+    width: 1200px;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn4{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+.btn5{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+.btn6{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: blue;
+    border: 1px solid blue;
+}
+.btn7{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: yellowgreen;
+    border: 1px solid yellowgreen;
+}
+.btn8{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: skyblue;
+    border: 1px solid skyblue;
+}
+.btn9{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: orange;
+    border: 1px solid orange;
+}
+.btn10{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: red;
+    border: 1px solid red;
+}
+.btn11{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+.btn12{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: yellowgreen;
+}
+.btn13{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+}
+.btn14{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+.btn15{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+.btn16{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+.btn17{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: yellowgreen;
+    border: 1px solid yellowgreen;
+    border-radius: 20px;
+}
+.btn18{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+    border: 1px solid skyblue;
+    border-radius: 20px;
+}
+.btn19{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 20px;
+}
+.btn20{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 20px;
+}
+.wrap5{
+    width:1200px;
+    margin: 20px auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.btn21{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+.btn22{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: yellowgreen;
+}
+.btn23{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: skyblue;
+}
+.btn24{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+.btn25{
+    display: inline-block;
+    padding: 14px 16px;
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: red;
+}
+
+
+
+
+
+
